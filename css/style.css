@@ -1,0 +1,8 @@
+body{
+    background: linear-gradient(to right, #ff9966, #ff5e62);
+    font-family: 'Playfair Display', serif;
+}
+
+.hidden{
+    display: none;
+}
